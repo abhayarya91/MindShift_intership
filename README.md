@@ -83,7 +83,7 @@ This project is used by the following companies:
 
 
 ## 🛠 Skills
-C?C++,python...
+C/C++,python...
 
 
 ## 🚀 About Me
