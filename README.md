@@ -73,12 +73,6 @@ python3 scripts/content_security_validator.py cyberswipe.in
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-
-
-
-For support, email: abhayarya@cyberswipe.in.
-
-
 ## Optimizations
 
 What optimizations did you make in code? E.g. refactors, performance improvements, accessibility
