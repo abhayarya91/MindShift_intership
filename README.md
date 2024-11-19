@@ -83,7 +83,7 @@ This project is used by the following companies:
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+C?C++,python...
 
 
 ## 🚀 About Me
