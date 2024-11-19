@@ -74,7 +74,7 @@ python3 scripts/content_security_validator.py cyberswipe.in
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-## Support
+
 
 For support, email: abhayarya@cyberswipe.in.
 
@@ -103,7 +103,7 @@ Javascript, HTML, CSS...
 ## 🚀 About Me
 I'm a cyber security explorer.
 
-## Feedback
+## Feedback & Support
 
-If you have any feedback, please reach out to us at abhayarya@cyberswipe.in
+If you have any feedback and need to Support, please reach out to us at abhayarya@cyberswipe.in
 
